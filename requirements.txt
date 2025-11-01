@@ -38,3 +38,54 @@ feedparser
 protobuf==3.20.2
 wandb
 ipykernel
+# Core Python tools
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep Learning Frameworks
+tensorflow
+torch
+torchvision
+torchaudio
+keras
+
+# Data Processing & Visualization
+jupyter
+notebook
+plotly
+opencv-python
+Pillow
+
+# Model Deployment & MLOps
+flask
+fastapi
+uvicorn
+mlflow
+joblib
+
+# NLP (Natural Language Processing)
+nltk
+spacy
+transformers
+sentencepiece
+
+# Data handling / IO
+h5py
+pyyaml
+
+# Utilities
+tqdm
+requests
+
+# Optional (for experiments, tuning, and reproducibility)
+optuna
+wandb
